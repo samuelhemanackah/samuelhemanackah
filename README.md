@@ -13,26 +13,27 @@
 
 ---
 
-## 🏗️ Gallery (Projects in Progress)
-I am developing a curated set of **bank-relevant ML/DL projects**—each built with the rigor of real-world systems.  
+## 🏛️ Portfolio Overview
+My work is organized into a curated gallery of **bank-relevant ML/DL projects**.  
+Each repository is constructed with the discipline of production systems and the standards of institutional finance.  
 
-- 📊 [Transactions EDA & Baselines](#) — *In Progress*  
-- 🔍 Fraud-Lite: Imbalanced Classification Pipeline — *Forthcoming*  
-- 🏦 Bank-Grade ML Mini-System — *Forthcoming*  
-- 📑 Filings/News Advisor (RAG + Fin-NLP) — *Forthcoming*  
-- 📈 Market Regime Forecaster (Azure ML) — *Forthcoming*  
-- ⚡ Fraud Detection @ Scale (Spark + MLOps) — *Forthcoming*  
-- 📂 Advisor Document Intelligence — v2 Hardening — *Forthcoming*  
-- 🧮 Risk Scoring Pipeline (Azure Databricks + Delta) — *Forthcoming*  
+- 📊 Transactions EDA & Baselines — *In Development*  
+- 🔍 Fraud-Lite: Imbalanced Classification Pipeline — *Anticipated Release*  
+- 🏦 Bank-Grade ML Mini-System — *Anticipated Release*  
+- 📑 Filings/News Advisor (RAG + Fin-NLP) — *Anticipated Release*  
+- 📈 Market Regime Forecaster (Azure ML) — *Anticipated Release*  
+- ⚡ Fraud Detection @ Scale (Spark + MLOps) — *Anticipated Release*  
+- 📂 Advisor Document Intelligence — v2 Hardening — *Anticipated Release*  
+- 🧮 Risk Scoring Pipeline (Azure Databricks + Delta) — *Anticipated Release*  
 
-👉 For a full overview, see the [Gallery Index](#) *(repo link once created)*.  
+👉 For the complete collection, see the **[Finance AI Gallery](https://github.com/samuelhemanackah/finance-ai-gallery)**.  
 
 ---
 
 ## 📚 Coursework
-Alongside these projects, I am pursuing a structured curriculum that includes:  
+In parallel, I am completing a structured curriculum to reinforce fundamentals and broaden expertise:  
 - UMich Applied Data Science with Python (Coursera)  
-- Andrew Ng’s ML Specialization (Coursera)  
+- Andrew Ng’s Machine Learning Specialization (Coursera)  
 - Hugging Face Transformers & Generative AI (DeepLearning.AI)  
 - Databricks Lakehouse & Azure ML workshops  
 - Daily drills in LeetCode, SQL, pandas, and NumPy  
@@ -42,11 +43,11 @@ Alongside these projects, I am pursuing a structured curriculum that includes:
 ---
 
 ## 🎯 Mission
-I pursue mastery of deep learning with a clear focus:  
-to apply it in finance and wealth management with precision, integrity, and purpose.  
+I pursue mastery of deep learning with a singular purpose:  
+to apply it in finance and wealth management with **precision, integrity, and endurance**.  
 
 Every project I undertake is designed to be **reliable, explainable, and production-ready**—  
-solutions that stand up to scrutiny and deliver lasting value.  
+artifacts that withstand scrutiny and deliver lasting value.  
 
 ---
 
