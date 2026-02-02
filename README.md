@@ -1,7 +1,6 @@
 # Samuel Heman-Ackah III  
 
 **Deep Learning Engineer | AI for Finance, Compliance, and Wealth Management**  
-✝️ *Built by God, Driven by Excellence*  
 
 ---
 
@@ -51,7 +50,7 @@ artifacts that withstand scrutiny and deliver lasting value.
 
 ---
 
-## 📖 Guiding Verse
+## 📖 Guiding Verse ✝️
 *“Do you see a man skilled in his work?  
 He will stand before kings;  
 he will not stand before obscure men.”*  
