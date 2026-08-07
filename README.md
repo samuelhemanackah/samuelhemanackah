@@ -1,6 +1,6 @@
 # Samuel Heman-Ackah III  
 
-**Deep Learning Engineer | AI for Finance, Compliance, and Wealth Management**  
+**AI/ML & Deep Learning | Financial Applications | B.S. Computer Science (Machine Learning), UMD**  
 
 ---
 
